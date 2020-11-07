@@ -14,8 +14,8 @@ page_sections:
   - link: "#contact"
     link_text: Contact
   cta:
-    url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
-    button_text: Import
+    url: https://www.facebook.com/Auto-Service-Celaru-100934588494067
+    button_text: Facebook
 - template: hero-banner-w-image
   block: hero-2
   slug: features
