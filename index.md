@@ -34,7 +34,8 @@ page_sections:
   media_alignment: Left
   slug: servicii_vulcanizare
   headline: "<strong>Servicii vulcanizare</strong>"
-  content: "<strong>Servicii vulcanizare</strong>: montaj roți, echilibrare, vulcanizare<br>"
+  content: "<strong>Servicii vulcanizare</strong>: montaj anvelope, echilibrare.<br>In
+    luna noiembrie: Montaj și echilibrat 4 anvelope - 60 RON.<br>"
   media:
     image: "/uploads/2020/11/07/poza-interior-3.jpeg"
     alt_text: masina dejantare si echilibrare
