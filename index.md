@@ -51,7 +51,7 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   col_2: Contact <br>0749 678 828
-  image: ''
+  image: "/uploads/2020/11/07/banner.jpg"
   col_3: ''
   col_4: ''
 
