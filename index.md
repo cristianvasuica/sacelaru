@@ -57,6 +57,15 @@ page_sections:
   media:
     image: "/uploads/2020/11/07/car-1751753_1920.jpg"
     alt_text: service-auto-celaru constare si diagnoza
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: Servicii <strong>încărcare freon</strong> aer condiționat
+  slug: servicii_incarcareac
+  content: text servicii incarcare ac
+  media:
+    image: "/uploads/2020/11/07/car_airco.jpg"
+    alt_text: service auto celaru - incarcare freon
 - template: 4-column-footer
   block: footer-2
   col_2: Contact <br>0749 678 828
