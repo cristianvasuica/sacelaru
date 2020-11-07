@@ -5,7 +5,7 @@ date: 2017-11-23 01:00:00 +0200
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: "/uploads/2020/11/07/logo.jpg"
   navigation:
   - link: "/"
     link_text: Acasa
