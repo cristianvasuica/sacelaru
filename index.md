@@ -48,6 +48,15 @@ page_sections:
   media:
     image: "/uploads/2020/11/07/brake-2780659_1920.jpg"
     alt_text: Servicii mecanica
+- template: content-feature
+  block: feature-1
+  media_alignment: Left
+  headline: Servicii <strong>constare </strong>și <strong>diagnoza</strong>
+  slug: servicii_constarediagnoza
+  content: Constare si diagnoza text
+  media:
+    image: "/uploads/2020/11/07/car-1751753_1920.jpg"
+    alt_text: service-auto-celaru constare si diagnoza
 - template: 4-column-footer
   block: footer-2
   col_2: Contact <br>0749 678 828
