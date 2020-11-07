@@ -9,10 +9,10 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Acasa
-  - link: "#swap"
-    link_text: Swap
-  - link: "#customize"
-    link_text: Customize
+  - link: "#servicii"
+    link_text: Servicii
+  - link: "#contact"
+    link_text: Contact
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
