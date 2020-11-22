@@ -33,7 +33,7 @@ page_sections:
   block: feature-1
   media_alignment: Left
   slug: servicii_vulcanizare
-  headline: "<strong>Servicii vulcanizare</strong>"
+  headline: "<strong>Vulcanizare</strong>"
   content: "<strong>Servicii vulcanizare</strong>: montaj anvelope, echilibrare.<br>In
     luna noiembrie: Montaj și echilibrat 4 anvelope - 60 RON.<br>"
   media:
