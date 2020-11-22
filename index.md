@@ -66,17 +66,6 @@ page_sections:
   media:
     image: "/uploads/2020/11/07/car_airco.jpg"
     alt_text: service auto celaru - incarcare freon
-- template: 4-column-footer
-  block: footer-2
-  col_2: '<strong>Contact</strong><br>Telefon: 0749 678 828<br>Email: <span class="d2edcug0
-    hpfvmrgz qv66sw1b c1et5uql rrkovp55 a8c37x1j keod5gw0 nxhoafnm aigsh9s9 d3f4x2em
-    fe6kdd0r mau55g9w c8b282yb iv3no6db jq4qci2q a3bd9o3v knj5qynh oo9gr5id hzawbc8m">serviceautocelaru[at]yahoo.com</span><br>Google
-    Maps: <a href="https://www.google.ro/maps/place/Auto+Service+Celaru/@44.0488207,24.1187613,17z/data=!3m1!4b1!4m5!3m4!1s0x40acc5e79a540cd1:0xd7007595f53c7032!8m2!3d44.0488169!4d24.12095"
-    title="Auto Service Celaru">Auto Service Celaru</a>'
-  image: ''
-  col_3: "<strong>PAUN CRISTIAN PFA<br></strong>Celaru, sat Soreni, strada Ispas<br>Cod
-    fiscal 31536417<br>Nr. înmatriculare F16/632/2013"
-  col_4: "<strong><br></strong>"
 - template: simple-footer
   block: footer-1
   content: '<strong>Contact</strong><br>Telefon: 0749 678 828<br>Email: <span class="d2edcug0
