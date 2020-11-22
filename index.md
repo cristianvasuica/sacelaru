@@ -51,9 +51,9 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Left
-  headline: Servicii <strong>constare </strong>și <strong>diagnoza</strong>
+  headline: "<strong>Constare </strong>și <strong>diagnoza</strong>"
   slug: servicii_constarediagnoza
-  content: Constare si diagnoza text
+  content: ''
   media:
     image: "/uploads/2020/11/07/car-1751753_1920.jpg"
     alt_text: service-auto-celaru constare si diagnoza
