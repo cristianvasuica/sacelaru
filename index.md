@@ -44,7 +44,7 @@ page_sections:
   media_alignment: Right
   slug: servicii_mecanica
   headline: "<strong>Mecanica</strong>"
-  content: Servicii mecanica
+  content: ''
   media:
     image: "/uploads/2020/11/07/brake-2780659_1920.jpg"
     alt_text: Servicii mecanica
