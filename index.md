@@ -62,7 +62,7 @@ page_sections:
   media_alignment: Right
   headline: Servicii <strong>încărcare freon</strong> aer condiționat
   slug: servicii_incarcareac
-  content: text servicii incarcare ac
+  content: ''
   media:
     image: "/uploads/2020/11/07/car_airco.jpg"
     alt_text: service auto celaru - incarcare freon
