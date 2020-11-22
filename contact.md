@@ -5,7 +5,7 @@ date: 2020-11-21 00:00:00 +0200
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2020/11/07/logo.jpg"
+  logo: "/uploads/2020/11/22/logo.svg"
   navigation:
   - link: "/"
     link_text: Acasa
