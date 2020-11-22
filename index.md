@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Acasa
-  - link: "#servicii"
+  - link: "#servicii-vulcanizare"
     link_text: Servicii
   - link: "#contact"
     link_text: Contact
