@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2020/11/07/logo.jpg"
   navigation:
-  - link: "/index"
+  - link: "/"
     link_text: Acasa
   - link: "/contact"
     link_text: Contact
