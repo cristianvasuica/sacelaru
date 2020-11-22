@@ -11,7 +11,7 @@ page_sections:
     link_text: Acasa
   - link: "#servicii-vulcanizare"
     link_text: Servicii
-  - link: "#contact"
+  - link: "/contact"
     link_text: Contact
   cta:
     url: https://www.facebook.com/Auto-Service-Celaru-100934588494067
