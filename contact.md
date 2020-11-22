@@ -12,8 +12,8 @@ page_sections:
   - link: "/contact"
     link_text: Contact
   cta:
-    url: ''
-    button_text: ''
+    url: https://www.facebook.com/Auto-Service-Celaru-100934588494067
+    button_text: Facebook
 - template: content-feature
   block: feature-1
   media_alignment: Right
