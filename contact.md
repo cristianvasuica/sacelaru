@@ -1,7 +1,7 @@
 ---
 layout: blocks
 title: Contact
-date: 2020-11-22 00:00:00 +0200
+date: 2020-11-21 00:00:00 +0200
 page_sections:
 - template: navigation-header-w-button
   block: header-2
