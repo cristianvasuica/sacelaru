@@ -60,7 +60,7 @@ page_sections:
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: Servicii <strong>încărcare freon</strong> aer condiționat
+  headline: "<strong>Încărcare freon</strong> aer condiționat"
   slug: servicii_incarcareac
   content: ''
   media:
