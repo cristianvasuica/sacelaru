@@ -9,8 +9,6 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Acasa
-  - link: "/contact"
-    link_text: Contact
   cta:
     url: https://www.facebook.com/Auto-Service-Celaru-100934588494067
     button_text: Facebook
