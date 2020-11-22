@@ -5,8 +5,12 @@ date: 2020-11-22 00:00:00 +0200
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: ''
-  navigation: []
+  logo: "/uploads/2020/11/07/logo.jpg"
+  navigation:
+  - link: "/index"
+    link_text: Acasa
+  - link: "/contact"
+    link_text: Contact
   cta:
     url: ''
     button_text: ''
