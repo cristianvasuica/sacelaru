@@ -73,7 +73,7 @@ page_sections:
     fe6kdd0r mau55g9w c8b282yb iv3no6db jq4qci2q a3bd9o3v knj5qynh oo9gr5id hzawbc8m">serviceautocelaru[at]yahoo.com</span><br>Google
     Maps: <a href="https://www.google.ro/maps/place/Auto+Service+Celaru/@44.0488207,24.1187613,17z/data=!3m1!4b1!4m5!3m4!1s0x40acc5e79a540cd1:0xd7007595f53c7032!8m2!3d44.0488169!4d24.12095"
     title="Auto Service Celaru">Auto Service Celaru</a>'
-  image: "/uploads/2020/11/07/hero-image.jpg"
+  image: "/uploads/2018/06/21/forestry-symbol.svg"
   col_3: "<strong>PAUN CRISTIAN PFA<br></strong>Celaru, sat Soreni, strada Ispas<br>Cod
     fiscal 31536417<br>Nr. înmatriculare F16/632/2013"
   col_4: "<strong><br></strong>"
