@@ -68,8 +68,8 @@ page_sections:
     alt_text: service auto celaru - incarcare freon
 - template: 4-column-footer
   block: footer-2
-  col_2: "<strong>PAUN CRISTIAN PFA<br>Celaru, sat Soreni, strada Ispas<br>Cod fiscal
-    31536417<br>Nr. înmatriculare F16/632/2013</strong>"
+  col_2: "<strong>PAUN CRISTIAN PFA<br></strong>Celaru, sat Soreni, strada Ispas<br>Cod
+    fiscal 31536417<br>Nr. înmatriculare F16/632/2013"
   image: ''
   col_3: '<strong>Service auto Celaru</strong> <strong>Contact</strong><br>Telefon:
     0749 678 828<br>Email: <span class="d2edcug0 hpfvmrgz qv66sw1b c1et5uql rrkovp55
