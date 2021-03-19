@@ -16,18 +16,9 @@ page_sections:
   cta:
     url: https://www.facebook.com/Auto-Service-Celaru-100934588494067
     button_text: Facebook
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: "/uploads/2021/03/19/imagine_proiect.png"
-  image:
-    image: ''
-    alt_text: ''
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2021/03/19/imagine_proiect.png"
 - template: hero-banner-w-image
   block: hero-2
   slug: features
