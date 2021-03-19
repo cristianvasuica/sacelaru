@@ -12,6 +12,9 @@ page_sections:
   cta:
     url: https://www.facebook.com/Auto-Service-Celaru-100934588494067
     button_text: Facebook
+- template: simple-header
+  block: header-3
+  logo: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
