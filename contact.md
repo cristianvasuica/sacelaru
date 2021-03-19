@@ -14,7 +14,7 @@ page_sections:
     button_text: Facebook
 - template: simple-header
   block: header-3
-  logo: ''
+  logo: "/uploads/2021/03/19/imagine_proiect.png"
 - template: content-feature
   block: feature-1
   media_alignment: Right
